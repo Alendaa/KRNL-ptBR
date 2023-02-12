@@ -9,7 +9,7 @@
  - [Visual C++ Redistributable x64](https://aka.ms/vs/16/release/vc_redist.x64.exe)
   - [Visual C++ Redistributable x86](https://aka.ms/vs/16/release/vc_redist.x86.exe)
 
-3.) O seu computador precisa da versão atualizada do [.NET Framework (4.7.2+)](https://dotnet.microsoft.com/download/dotnet-framework/net48) Clique para nessa mensagem em azul para instalar.
+3.) O seu computador precisa da versão atualizada do [.NET Framework (4.7.2+)](https://dotnet.microsoft.com/download/dotnet-framework/net48) Clique nessa mensagem em azul para instalar.
 
 4.) Após ter instalado tudo que for necessario, reinicie o seu computador.
 
