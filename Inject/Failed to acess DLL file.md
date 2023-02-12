@@ -8,6 +8,6 @@ Não se sabe o porque disto ocorrer, mas há algumas formas de se resolver este 
 # Soluções
 
  - Inicie o KRNL como administrador.
- - Se você estiver usando o KRNL Latest. Pressione Win + R, digite "%appdata%/Krnl", exclua "krnl.dll" e "injector.dll" e reinicie o KRNL.
+ - Se você estiver usando o KRNL Latest. Pressione Win + R, digite "%appdata%/Krnl" e aperte em OK, exclua "krnl.dll" e "injector.dll" e reinicie o KRNL.
 
 ![Referencia](https://4.bp.blogspot.com/-LS65YdKCIlc/VXGeoqpBdaI/AAAAAAAAAYE/D-ie5rD1PfE/s1600/pressing-windows-key-r-529x361.png)
